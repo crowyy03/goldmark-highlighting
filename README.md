@@ -27,7 +27,7 @@ import (
 	"github.com/yuin/goldmark"
 
 	chromahtml "github.com/crowyy03/chroma/v2/formatters/html"
-	highlighting "github.com/yuin/goldmark-highlighting/v2"
+	highlighting "github.com/crowyy03/goldmark-highlighting/v2"
 )
 
 func main() {
